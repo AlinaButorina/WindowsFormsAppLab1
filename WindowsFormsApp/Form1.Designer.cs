@@ -110,7 +110,7 @@ namespace WindowsFormsApp
             label2.Name = "label2";
             label2.Size = new Size(98, 19);
             label2.TabIndex = 7;
-            label2.Text = "Бред машины";
+            label2.Text = "Бренд машины";
             // 
             // label1
             // 
