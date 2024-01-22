@@ -2,6 +2,8 @@
 using System;
 using System.Runtime.ConstrainedExecution;
 using WindowsFormsApp;
+using ClassLibrary3;
+using static ClassLibrary3.ClassLibrary3;
 
 namespace UnitTestProject1
 {
